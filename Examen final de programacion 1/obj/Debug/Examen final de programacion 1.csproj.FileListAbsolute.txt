@@ -1,0 +1,28 @@
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\bin\Debug\Examen final de programacion 1.exe.config
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\bin\Debug\Examen final de programacion 1.exe
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\bin\Debug\Examen final de programacion 1.pdb
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen_final_de_programacion_1.Properties.Resources.resources
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csproj.GenerateResource.cache
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.exe
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.pdb
+C:\Users\emanu\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen_final_de_programacion_1.Dormidos.resources
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\bin\Debug\Examen final de programacion 1.exe.config
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\bin\Debug\Examen final de programacion 1.exe
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\bin\Debug\Examen final de programacion 1.pdb
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csproj.AssemblyReference.cache
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen_final_de_programacion_1.Dormidos.resources
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen_final_de_programacion_1.Properties.Resources.resources
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csproj.GenerateResource.cache
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.exe
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.pdb
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csproj.AssemblyReference.cache
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\obj\Debug\exa.Dormidos.resources
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\obj\Debug\Examen_final_de_programacion_1.Properties.Resources.resources
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csproj.GenerateResource.cache
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.exe
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\obj\Debug\Examen final de programacion 1.pdb
+C:\Users\Alvaro\Desktop\Examen final de programacion 1\obj\Debug\examen_Final_de_Programacion_1.Dormidos.resources
